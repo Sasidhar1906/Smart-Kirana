@@ -183,6 +183,7 @@ Built by a team of three:
 | Pathange Sai Pranav | [@psp2535](https://github.com/psp2535) | [LinkedIn](https://www.linkedin.com/in/pathangesaipranav/) |
 | Surendra Chakali | [@suri5790](https://github.com/suri5790) | [LinkedIn](https://www.linkedin.com/in/surendrachakali/) |
 | Duppala Satwik | [@Satwik2529](https://github.com/Satwik2529) | [LinkedIn](https://www.linkedin.com/in/satwik2529dsk/) |
+| Gedela Sasidhar Chakrapani | [@Sasidhar1906](https://github.com/Sasidhar1906) | [LinkedIn](https://www.linkedin.com/in/sasidhar1906/) |
 
 ---
 
